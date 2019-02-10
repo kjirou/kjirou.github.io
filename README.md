@@ -1,4 +1,1 @@
-kjirou.github.io
-================
-
-Hello, world!
+# kjirou.github.io
