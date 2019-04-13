@@ -1,0 +1,676 @@
+#あいう
+
+
+# allaround, links
+url=http://www.tekepon.net/fsm/
+title=First Seed Material
+tags=allaround fsm community links map character
+
+url=http://commons.nicovideo.jp/materials/
+title=ニコニ・コモンズ
+tags=allaround community bgm
+
+url=http://tkool-dir.amaju.com/
+title=RPGツクール ディレクトリ
+tags=links
+
+url=http://tkool.unspp.net/
+title=@tkool
+tags=links
+
+url=http://wikiwiki.jp/piporpg/
+title=はじめてのウディタ　挫折して再び
+tags=links
+comment=左下の 素材サイトリンク集 から
+
+url=http://freegame.on.arena.ne.jp/
+title=フリーゲーム夢現
+tags=links
+
+url=http://f-game.jp/
+title=フリーゲーム総合サイト
+tags=links
+
+url=http://mogera.jp/
+title=モゲラ
+tags=links
+
+url=http://www.silversecond.com/WolfRPGEditor/
+title=WOLF RPGエディター
+tags=allaround character map face battler
+comment=利用規約によると素材の別目的での使用も可とのこと
+
+
+# character
+url=http://www.famitsu.com/freegame/tool/chibi/index1.html
+title=ちびキャラツクール
+tags=tool character
+
+url=http://usui.moo.jp/rpg_tukuru.html
+title=臼井の会
+tags=character icon
+
+url=http://simttenanbo.blog90.fc2.com/
+title=ツクってなんぼ
+tags=character
+comment=左の 【素材サイト】 から
+
+url=http://ameblo.jp/makapri
+title=王国興亡記
+tags=character face picture
+
+url=http://blog42701.blog42.fc2.com/
+title=289K
+tags=character map
+
+url=http://www.k3.dion.ne.jp/~toraneko/
+title=とらねこさんの小屋
+tags=character
+
+url=http://cocodoco.chu.jp/
+title=ここどこ
+tags=character map icon battler
+
+url=http://him2.sakura.ne.jp/labo/
+title=和キャラつく～る
+tags=tool character
+
+url=http://kanamemon.blog64.fc2.com/
+title=ＲＰＧツクール　ゲーム倉庫
+tags=character
+
+url=http://foxterrier.blog64.fc2.com/
+title=覚え書き@blog
+tags=character
+
+url=http://www.geocities.jp/kurororo4/looseleaf/
+title=Loose Leafキャラクター素材合成シミュレータ
+tags=tool character
+
+url=http://www008.upp.so-net.ne.jp/newiceax/framepage1.htm
+title=アトリエ・ピッケル
+tags=character battler
+comment="全ての素材をＲＰＧツクールＸＰ以外において使用することを禁じます" 別途要相談とのこと
+
+url=http://junkhunt.net/vx/charachip.shtml
+title=キャラチップ生成システム
+tags=tool character
+
+url=http://para.blog14.fc2.com/
+title=ParaSite2D6 RPG館 ブログ - とりあえず作ったものとか。
+tags=character picture
+
+url=http://tomatoes.michikusa.jp/
+title=Spare Blade
+tags=character
+comment=ファミコン風
+
+url=http://uros.web.fc2.com/
+title=ひみつ
+tags=character map effect
+comment=ファミコン風
+
+url=http://nanikasiratkool.web.fc2.com/
+title=なにかしらツク~ル
+tags=character battler picture
+comment=現代物
+
+url=http://www3.wind.ne.jp/DENZI/diary/
+title=DENZI部屋
+tags=character map otherimages
+comment=Rougelike系にマッチ、点数多し、ウルティマ風ステ表示用画像パーツ有
+
+url=http://d.hatena.ne.jp/Erl/
+title=えるるのだいあり
+tags=character
+comment=16x16東方チビキャラ
+
+url=http://park2.wakwak.com/~kuribo/
+title=敦煌回廊
+tags=character
+
+
+# face
+url=http://momomohouse.jugem.jp/
+title=あひる小屋
+tags=face icon
+comment=商用不可
+
+url=http://fayforest.sakura.ne.jp/
+title=森の奥の隠れ里
+tags=face icon body picture
+
+url=http://www4.pf-x.net/~kazimo/hp_top.htm
+title=KAZIMOX
+tags=face
+comment=アニメ調ではなく渋い感じで、汎用的に使えそうな顔グラ
+
+url=http://chogemu.aruna.main.jp/
+title=CHOGEMU
+tags=face
+
+url=http://tabinoyadokari.web.fc2.com/
+title=旅のヤドカリ
+tags=face
+
+url=http://nunnuku24.seesaa.net/
+title=ぬーんのらくがき帳
+tags=face icon
+
+url=http://tkool.rgr.jp/
+title=てきとーツクール素材
+tags=face
+comment=いくつかオリジナル有り
+
+url=http://etolier.webcrow.jp/
+title=エトリエ
+tags=face battler windowskin picture
+comment=独特の画風だが数は揃っている
+
+url=http://highig.web.fc2.com/
+title=h.i.g
+tags=face icon
+comment=商用有料
+
+url=http://towaemoa.blog70.fc2.com/
+title=トワエモア
+tags=face
+
+url=http://bugiwa.web.fc2.com/
+title=ブギワーツ
+tags=face
+
+url=http://yoseyai.nobody.jp/
+title=cluck duck
+tags=face
+comment=素材＞オリジナル に何点か
+
+url=http://oldscratch666.blog58.fc2.com/
+title=えそらごと
+tags=face body
+comment=今は限定公開になってる
+
+url=http://tori.aikotoba.jp/
+title=とりのすみか。
+tags=face
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/imgbb/viewtopic.php?topic_id=1454&forum=3
+tags=fsm face
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/imgbb/viewtopic.php?topic_id=1409&forum=3
+tags=fsm face
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/imgbb/viewtopic.php?topic_id=2347
+tags=fsm face
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/imgbb/viewtopic.php?topic_id=2330&forum=3
+tags=fsm face
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/imgbb/viewtopic.php?topic_id=2327&forum=3
+tags=fsm face
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/imgbb/viewtopic.php?topic_id=2363
+tags=fsm face
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/imgbb/viewtopic.php?topic_id=2364
+tags=fsm face
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/imgbb/viewtopic.php?topic_id=2357
+tags=fsm face
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/imgbb/viewtopic.php?topic_id=2317&forum=3
+tags=fsm face
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/imgbb/viewtopic.php?topic_id=2325&forum=3
+tags=fsm face
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/imgbb/viewtopic.php?topic_id=2326&forum=3
+tags=fsm face
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/imgbb/viewtopic.php?topic_id=2327&forum=3
+tags=fsm face
+
+
+# map
+url=http://feel2500.blog50.fc2.com/
+title=feel for fantasia
+tags=map icon windowskin effect battler picture
+
+url=http://creava.cocolog-nifty.com/blog/
+title=Creava's Nest
+tags=map windowskin
+comment=左の Map Project から
+
+url=http://tennshinaakuma.pod3.net/
+title=心のまにまに
+tags=map battler
+comment=入口 から
+
+url=http://www7b.biglobe.ne.jp/~uma-casa/
+title=たからじま
+tags=map
+comment=16px / ファミコン風
+
+url=http://horizon.sub.jp/tk/
+title=HORIZON SIDE:TK
+tags=map
+
+url=http://yms.main.jp/
+title=ドッド絵世界
+tags=map
+
+url=http://hi79.web.fc2.com/
+title=白螺子屋（基本はツクール素材サイト）
+tags=map character battler picture
+comment=数が多い
+
+url=http://hungrymouse.web.fc2.com/
+title=HungryMouse
+tags=map
+
+url=http://www.geocities.jp/i_kawauso/
+title=泉獺の植民地
+tags=map picture face
+comment=変なの専門、「タイトル画像」は普通、非フリー混在かも
+
+title=FSM投稿記事
+url=http://www.tekepon.net/fsm/modules/reqbb/viewtopic.php?topic_id=5096
+tags=fsm map rtp
+comment=RTP改変のマップオブジェクトがまとめてアップされている、参考に
+
+url=http://www5.hp-ez.com/hp/white-patisserie/
+title=白洋菓子店
+tags=map character
+comment=「グラフィック系素材」から
+
+url=http://kurousagi1029room.web.fc2.com/
+title=黒兎のお部屋
+tags=map
+
+url=http://piposozai.wiki.fc2.com/
+title=ぴぽや倉庫
+tags=map battler otherimages
+comment=ウディタ用、キーボードのキー画像有り
+
+
+# icon
+url=http://neko.moo.jp/BS/
+title=化け猫屋
+tags=icon battler
+
+url=http://whitecafe.sakura.ne.jp/
+title=Whitecat
+tags=icon
+
+url=http://sunayume.jp/
+title=沙夢
+tags=icon
+
+url=http://hansweaponshop.blog24.fc2.com/
+title=HAN'S WEAPON SHOP
+tags=icon
+
+url=http://www.geocities.jp/kdou3/
+title=空想どうでしょう
+tags=icon
+comment=ENTER ＞ ツクール ＞ 素材 アイコン から
+
+url=http://ggff.onmitsu.jp/0top.htm
+title=GAME FACTORY
+tags=icon map
+
+url=http://ameblo.jp/apostleheart/
+title=とりあえず
+tags=icon
+comment=右下の「素材」から
+
+url=http://luneth.tuzigiri.com/
+title=ルーネスの物置小屋
+tags=icon windowskin
+comment=フレーム有り ＞ 左の RPG Tkool .. から
+
+
+# battler
+url=http://cyanyurikago.web.fc2.com/
+title=シアンのゆりかご
+tags=battler picture
+
+url=http://www.geocities.co.jp/Milano-Cat/3319/
+title=RPGドット
+tags=battler
+
+url=http://raineru03.web.fc2.com/
+title=HI-TIME
+tags=battler
+
+url=http://sorakujira.yu-yake.com/
+title=アトリエそらくじら
+tags=battler picture body effect
+
+
+# picture
+url=https://sites.google.com/site/closetvx/
+title=CLOSET 別館
+tags=picture face
+
+url=http://ameblo.jp/wodaa/
+title=未定という名の倉庫
+tags=picture
+
+url=http://art.pro.tok2.com/
+title=ヴァーチャル絵画館
+tags=picture
+
+url=http://www.freemap.jp/
+title=白地図専門店
+tags=picture
+comment=フリーの日本地図・世界地図
+
+url=http://blogs.yahoo.co.jp/roidburaun
+title=ロイ背景社
+tags=picture
+
+
+# photo
+url=http://kazenoohirune.net/
+title=風のおひるね
+tags=photo picture
+
+
+# font
+url=http://www.fontspace.com/
+title=FontSpace
+tags=font
+comment=大手フォントDLサイト, 権利関係が明示, 英字多し
+
+url=http://lightbox.on.coocan.jp/html/fontImage.php
+title=フリーフォントで簡単ロゴ作成
+tags=tool font
+comment=各種フリーフォントのプレビューが出来る
+
+url=http://www.geocities.jp/littlimi/
+title=Little Limit
+tags=font
+comment=7x7の美咲フォント、"font"リンクから
+
+url=http://slime4.hp.infoseek.sk/
+title=すらいむのへや
+tags=font
+comment=ドラクエフォント
+
+url=http://lovalotta.pya.jp/mosamosa/
+title=もさもさフォント
+tags=font
+comment=もさもさフォント
+
+url=http://www.geocities.jp/mild4128/
+title=スリィディマイルド
+tags=font
+comment=英語とカタカナのものが多い
+
+url=http://vlgothic.dicey.org/
+title=VL Gothic Font Family
+tags=font
+comment=RPGツクールVXにも入ってる
+
+url=http://www.jttk.zaq.ne.jp/babwp701/hpfont/fontall2.html
+title=ゲームフォントを手早く落としたい人のための一覧
+tags=font
+comment=昔のゲームドッド風
+
+url=http://aohatablau.net/
+title=アオハタ ブラウ
+tags=font
+comment=ドット風のもの多し
+
+url=http://www.fontsquirrel.com/tools/webfont-generator
+title=WEBFONT GENERATOR
+tags=tool font
+comment=.ttfを.woff/.eof/などなどの一式に変換するツール
+
+
+# bgm, se
+url=http://d-symphony.nsf.jp/
+title=龍的交響曲
+tags=bgm
+
+url=http://osabisi.sakura.ne.jp/m2/
+title=ザ・マッチメイカァズ
+tags=se
+
+url=http://nicegay.jp/
+title=あしなが・おにいさん
+tags=bgm
+
+url=http://www.01earth.net/sound/
+title=01SoundEarth
+tags=bgm se
+
+url=http://sildra.main.jp/
+title=SILDRA COMPANY
+tags=bgm
+comment=商用有料
+
+url=http://www.skipmore.com/sound/
+title=ユウラボ8bitサウンド工房
+tags=se
+
+url=http://musmus.main.jp/
+title=フリー音楽素材 MusMus
+tags=bgm
+
+url=http://maoudamashii.jokersounds.com/
+title=魔王魂
+tags=bgm se voice
+
+url=http://www.tam-music.com/
+title=TAM Music Factory
+tags=bgm se
+
+url=http://www.soundjay.com/
+title=SOUND JAY
+tags=se
+comment=英語
+
+url=http://koukaongen.com/
+title=こだま標準効果音ライブラリ
+tags=se
+comment=商用有料
+
+url=http://www.yen-soft.com/ssse/
+title=On-Jin 音人
+tags=se
+comment=個人なら無料
+
+url=http://www.otonomori.info/
+title=音の社
+tags=bgm se voice
+
+url=http://nota.from.tv/
+title=ノタの森へ
+tags=se
+
+url=http://www.rengoku-teien.com/
+title=煉獄庭園
+tags=bgm
+
+url=http://ficusel.com/
+title=FICUSEL
+tags=bgm
+
+url=http://www5a.biglobe.ne.jp/~dinah/
+title=映画は愉し！
+tags=se
+comment=ものおき ＞ MENU ＞ 音の小箱 から
+
+url=http://www.vita-chi.net/sozai1.htm
+title=びたちー素材館
+tags=se voice
+
+url=http://www14.big.or.jp/~amiami/happy/
+title=あみたろの声素材工房
+tags=voice
+
+url=http://www.senses-circuit.com/
+title=Senses Circuit
+tags=bgm se
+
+url=http://pansound.com/panicpumpkin/
+title=PANICPUMPKIN
+tags=bgm
+comment=ファミコンっぽい曲
+
+url=http://wwl.s-t-t.com/
+title=WEB WAVE LIB 音と声のonline素材集
+tags=se voice
+
+url=https://soundcloud.com/
+title=SoundCloud
+tags=bgm se community
+comment=英語サイト
+
+url=http://freesound.org/
+title=Freesound.org
+tags=se bgm community
+comment=英語サイト
+
+
+# dictionary
+url=http://www.weblio.jp/
+title=Weblio辞書
+tags=dictionary
+comment=辞書・類語・英和・和英・英語類語
+
+url=http://www.hmx-12.net/~virgil7/netEchat/glossary/
+title=オンラインゲームで役立つ用語・略語集
+tags=dictionary
+comment=クラス名・変数名などの参考に
+
+url=http://guthwine.com/
+title=風臥
+tags=dictionary
+comment=神話、伝承、古典文学などに登場する武具の辞典
+
+url=http://homepage3.nifty.com/onion/monster/m-index2.html
+title=怪物森羅万象
+tags=dictionary
+comment=ファンタジーに登場する怪物、妖精、悪魔、神々の辞典
+
+url=http://www.edit.ne.jp/~mati/okaruto/soromonn/Soromonn.htm
+title=ソロモン王72柱の魔王
+tags=dictionary
+
+url=http://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%AD%E3%83%A2%E3%83%B372%E6%9F%B1
+title=Wikipedia - ソロモン72柱
+tags=dictionary
+
+
+# data
+url=http://w.livedoor.jp/rpg/
+title=ＲＰＧゲームクリエイター
+tags=data links allaround
+comment=モンスター・武器防具といったRPG関連の用語集, その他コンテンツも有り
+
+url=http://tinyangel.jog.client.jp/
+title=Tiny Tales
+tags=data dictionary allaround
+comment=ファンタジー全般について幅広く解説, 敵やステージのネタに詰まった時に見ると良い
+
+url=http://www41.atwiki.jp/bukipedia/
+title=bukipedia
+tags=data
+comment=情報量が多く書き方が統一されていて見易い
+
+url=http://japan.wikia.com/wiki/%E6%9E%B6%E7%A9%BA%E3%81%AE%E6%AD%A6%E5%99%A8
+title=架空の武器 - wikia
+tags=data
+
+url=http://www.geocities.jp/mt_erech_ave/data.html
+title=外国人名前の資料館
+tags=data
+comment=ユニットのランダム名リスト作成などに
+
+url=http://www.aozora.gr.jp/
+title=青空文庫
+tags=data
+comment=当て込み文章などに
+
+
+# protocol
+url=http://tkool.jp/products/rpgvx/material.html
+title=RPGツクールVX 素材規格
+tags=protocol
+
+url=http://blog42701.blog42.fc2.com/blog-entry-73.html
+title=VXオートタイル作ってみた
+tags=protocol map
+
+
+# (template)
+url=
+title=
+tags=
+comment=
+
+
+# (settings)
+@taglabel allaround 総合
+@taglabel battler バトラー
+@taglabel bgm BGM
+@taglabel body 立ち絵
+@taglabel character キャラチップ
+@taglabel community コミュニティ
+@taglabel data データ
+@taglabel dictionary 辞書
+@taglabel effect エフェクト
+@taglabel face 顔グラ
+@taglabel font フォント
+@taglabel fsm FSM投稿記事
+@taglabel icon アイコン
+@taglabel links リンク集
+@taglabel map マップ
+@taglabel otherimages その他画像
+@taglabel picture 背景・一枚絵
+@taglabel photo 写真
+@taglabel protocol 規格
+@taglabel rtp RTP関連
+@taglabel se SE
+@taglabel tool ツール
+@taglabel voice ボイス
+@taglabel windowskin ウィンドウスキン
+
+@tagorder allaround 100
+@tagorder community 150
+@tagorder links     200
+@tagorder map         10100
+@tagorder character   10200
+@tagorder face        10300
+@tagorder body        10400
+@tagorder battler     10500
+@tagorder icon        10600
+@tagorder picture     10700
+@tagorder photo       10750
+@tagorder effect      10800
+@tagorder windowskin  10900
+@tagorder otherimages 19000
+@tagorder bgm   100100
+@tagorder se    100200
+@tagorder voice 100300
+@tagorder font 500100
+@tagorder protocol   700100
+@tagorder dictionary 700200
+@tagorder data       700300
+@tagorder fsm 900100
+@tagorder rtp 900200
