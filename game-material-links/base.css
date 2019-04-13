@@ -1,0 +1,52 @@
+/* vim: set foldmethod=marker : */
+@charset "UTF-8";
+
+
+html {
+    /** List NO RYOU DE scroll-bar GA DETARI KIETARI SHITE YOKO-HABA GA KAWATTE
+        tagselector GA ZURERU NODE TUNE NI scroll-bar WO DASU */
+    height: 101%;
+}
+#linkcollection {
+    margin: 0 auto 0 auto;
+    font-size: 16px;
+}
+.lc-linebreaker {
+    font-size:10px;
+}
+a.lc-tagbutton {
+    margin-right: 4px;
+    padding: 6px;
+    line-height: 36px;
+    font-size: 12px;
+    text-decoration: none;
+    border: 1px solid #CCC;
+}
+a.lc-selectedtag {
+    color: #FFF;
+    background-color: #AAA;
+}
+.lc-linklist {
+    margin-top: 15px;
+}
+.lc-link {
+    margin-top: 3px;
+}
+.lc-tags {
+    margin: 0 0 0 5px;
+}
+.lc-title {
+    margin-right: 5px;
+}
+.lc-tag {
+    margin-right: 5px;
+    padding: 0 1px 0 1px;
+    line-height: 12px;
+    font-size: 10px;
+    color: #666;
+    border: 1px solid #666;
+}
+.lc-comment {
+    color: #666;
+    font-size: 12px;
+}

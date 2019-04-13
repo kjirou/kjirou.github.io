@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+ "http://www.w3.org/TR/html4/loose.dtd">
+<html><!--あいう-->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<title>オリジナルゲーム用素材・参考リンク集</title>
+<script type="text/javascript" src="./dependency/jquery-1.7.2.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="./linkcollection.js" charset="utf-8"></script>
+<link rel="stylesheet" href="./base.css" type="text/css" />
+
+<script type="text/javascript">
+$(document).ready(function(){
+    var lc = LinkCollection.factory('./data.txt');
+    $('#linkcollection').append(lc.getView());
+    lc.build();
+
+    // デバッグ用
+    //LinkCollection.consoleLog(lc);
+});
+</script>
+
+</head>
+<body>
+
+<h1>オリジナルゲーム用素材・参考リンク集</h1>
+
+<div style="padding:0 0 10px 0; font-size:10px;">
+  <p>有料オリジナルゲームでも無料・安価で使えるものがメイン / 単語検索はブラウザのページ内検索で行って下さい</p>
+  <p><a href="/">&raquo; トップへ戻る</a></p>
+</div>
+
+<div id="linkcollection"></div>
+
+</body>
+</html>
